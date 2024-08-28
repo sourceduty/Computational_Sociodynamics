@@ -1,6 +1,6 @@
 ![Computational Sociodynamics](https://github.com/user-attachments/assets/ca98aed8-53ed-48a2-8370-6b8d90d86185)
 
-> Develop and simulate computational social dynamics.
+> An emerging scientific concept that integrates computational methods with the study of social dynamics, aiming to analyze, model, and predict complex social behaviors and interactions.
 
 #
 
